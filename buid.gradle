@@ -1,0 +1,7 @@
+dependencies {
+    implementation 'org.apache.kafka:kafka-clients:3.9.0'
+    implementation 'org.slfj4:slfj4-api:2.0.9'
+    implementation 'org:slfj4:slfj4-simple:2.0.9'
+    implementation 'org.apache.logging.log4j:log4j-api:2.20.0' 
+    implementation 'org.apache.logging.log4j:log4j-core:2.20.0'
+}
